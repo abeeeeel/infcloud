@@ -1,12 +1,12 @@
 /*
 InfCloud - the open source CalDAV/CardDAV Web Client
-Configured for Radicale server (http://localhost:5232/)
+Configured for Radicale server (https://dav.belor.top/)
 */
 
 // ===== SERVER CONFIGURATION ===== //
 var globalNetworkCheckSettings = {
     // Radicale server URL (username will be appended from login screen)
-    href: 'http://localhost:5232/',
+    href: 'https://dav.belor.top/',
 
     // Connection settings
     timeOut: 90000,          // Request timeout (ms)
